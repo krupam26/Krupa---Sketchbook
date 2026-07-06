@@ -2,7 +2,7 @@
 
 A digital sketchbook showcasing my creative journey through art, illustrations, and design explorations. This portfolio is a space where traditional creativity meets modern web design, allowing visitors to browse my artwork in an immersive and minimal experience.
 
-🌐 **Live Website:** https://krupa-sketchbook.vercel.app/
+🌐 **Live Website:** https://krupa-sketchbook-hu8849gd3-krupam26s-projects.vercel.app/
 
 ---
 
